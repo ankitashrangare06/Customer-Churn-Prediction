@@ -1,0 +1,27 @@
+# Customer Churn Prediction System
+# Requirements & Dependencies
+# TY BSc Data Science Final-Year Project
+
+# Core Data Processing
+numpy>=1.26.0
+pandas>=2.1.0
+
+# Machine Learning & Modeling
+scikit-learn>=1.4.0
+xgboost>=2.0.0
+joblib>=1.3.0
+scipy>=1.11.0
+
+# Explainable AI (XAI)
+shap>=0.44.0
+
+# Web Application & Dashboard
+streamlit>=1.30.0
+
+# Visualizations & Plotting
+matplotlib>=3.8.0
+seaborn>=0.13.0
+plotly>=5.18.0
+
+# Utilities & Networking
+requests>=2.31.0
